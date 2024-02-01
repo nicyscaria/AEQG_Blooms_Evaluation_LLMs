@@ -1,0 +1,3 @@
+Create a question of each cognitive level in revised Bloom’s taxonomy: remember, understand, apply, analyze, evaluate, and create on the {topic}.
+
+Please make sure that the questions are relatable to students in India.
